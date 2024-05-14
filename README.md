@@ -28,7 +28,7 @@ Contributed to data engineering efforts at SONDA, developing and testing data in
 Led the planning and implementation of analytics solutions, developed ELT and ETL processes, and supported data integration from various sources within the Google Cloud Platform environment.
 
 ## Education
-- **Post Graduate in Data Science & Analytics,** PUC-RIO, in progress, started at 2024/05
+- **Post Graduate in Data Science & Analytics,** PUC-RIO, in progress, started at 2024-05
 - **MBA in Data Engineering,** FIAP, 2022-2023
 - **Bachelor's in Data Science,** UNIVERITAS, 2020-2022
 
