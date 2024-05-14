@@ -16,6 +16,7 @@ I am a passionate **Data Engineer** with a focus on creating innovative and prof
 - **Orchestration Tools:** Airflow, Control-M
 - **Dataviz:** Power BI, Looker Studio, Streamlit
 - **Programming:** Python, SQL
+- **Other tools:** Nifi, Pentaho, knime, SAS Enterprise Guide, SAS DI
 
 ## Key Projects
 ### Data Lake Architecture for Insurance Data
