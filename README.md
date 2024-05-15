@@ -20,7 +20,7 @@ I am a passionate **Data Engineer** with a focus on creating innovative and prof
 
 ## Key Projects
 ### Data Lake Architecture for Insurance Data
-Developed and implemented the architecture of a Data Lake at CNseg, enhancing vehicle theft monitoring and creating essential dashboards for the insurance market.
+Developed and implemented the Data Lake architecture at CNseg, based on a modern data stack, improving vehicle theft monitoring, developed applications in pyspark that process 4TB (over 700.000.000 rows) of data from the Brazilian federal government monthly to deliver information to the insurance market that confirms or not the employment relationship of a worker, I also created dashboards that help insurance companies in Brazil understand their market positioning and identify opportunities to expand their business.
 
 ### Asset Pricing Model at Caixa Econômica Federal
 Contributed to data engineering efforts at SONDA, developing and testing data ingestion processes using SAS for asset pricing.
